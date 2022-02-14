@@ -140,6 +140,9 @@
  
  <div align="center">
   <h2>Github stats</h2> 
+  
+  [![Shubhtrikal's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhtrikal&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
   <img src="https://github-readme-stats.vercel.app/api?username=shubhtrikal&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/shubhtrikal" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhtrikal&theme=material-palenight" alt="https://github.com/shubhtrikal" />
