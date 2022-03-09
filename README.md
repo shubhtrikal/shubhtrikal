@@ -102,10 +102,10 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/Gourav-raj" target="_blank">
+  <a href="https://github.com/shubhtrikal" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/Gourav-raj" target="_blank">
+  <a href="https://gitlab.com/shubhtrikal" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
 </p>
