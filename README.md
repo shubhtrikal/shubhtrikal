@@ -4,7 +4,7 @@
 </div>
 
 
-- 🔭 I’m currently second yr student at NIT Bhopal ECE'24.
+- 🔭 I’m currently Third yr student at NIT Bhopal ECE'24.
 - 🌱 I’m currently learning Bash and python scripting for Linux.
 - 📫 How to reach me: [shubhtrikal9876@gmail.com](mailto:shubhtrikal9876@gmail.com).
 
